@@ -1,2 +1,2 @@
-# horus
-Online Observatory of Multiple Social Subjects
+# Horus
+## Online Observatory of Multiple Social Subjects
