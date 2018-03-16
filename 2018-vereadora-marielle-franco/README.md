@@ -1,4 +1,4 @@
-# About 2018-vereadora-marielle-franco
+# About: Vereadora Marielle Franco
 
 ## Search phrases: 'mariellefranco','mariellevive','naofoiassalto','mariellepresente','mariellefrancopresente','todospormarielle','justicaparamarielle','marielle','pormarielleeanderson'.
 ### Start date: 2018-03-14.
