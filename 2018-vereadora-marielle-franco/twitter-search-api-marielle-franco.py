@@ -5,10 +5,10 @@ import json
 import time
 import pymongo
 
-CONSUMER_KEY = "Ur5J5gHT6uYg7zms7GaLUNYWf"
-CONSUMER_SECRET = "SXSyveGpYiTzjifwC84IZ7IJBP7Lx138nODPhGW7CkykjIKTyu"
-ACCESS_KEY = "2471507719-kvni00S7JySj8Iq3PUD80d01jrh8HpSodLnoABo"
-ACCESS_SECRET = "EjbRRnAf9E8CgedjX9qBZ2XZABnRGI8vHeHft50CU6f8S"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_KEY = ""
+ACCESS_SECRET = ""
 
 consumer = oauth.Consumer(key=CONSUMER_KEY, secret=CONSUMER_SECRET)
 access_token = oauth.Token(key=ACCESS_KEY, secret=ACCESS_SECRET)
